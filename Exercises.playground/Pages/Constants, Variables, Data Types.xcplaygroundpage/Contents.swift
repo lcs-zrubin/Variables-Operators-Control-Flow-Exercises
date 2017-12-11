@@ -2,6 +2,28 @@
 /*:
  # Constants, Variables, Data Types
  
+ ## Learning Goals - Programming
+ 
+ * Goal 1
+    * *Knowledge*
+        * I know the difference between a constant and a variable and when it is appropriate to use each.
+ * Goal 2
+    * *Thinking*
+        * I know when to use different data types (integers, floating point, Boolean, strings, et cetera) and data structures and can explain why it is important to use the correct data type or structure.
+ 
+ ## Learning Goals - Software Development
+ 
+ * Goal 5
+    * *Thinking*
+        * I know the difference between syntax errors, logical errors, and run-time errors, can interpret error messages, and correct problems independently.
+ * Goal 8
+    * *Communication*
+        * I can write human-readable programs (naming, indenting) with appropriate documentation (comments).
+ 
+ * Goal 9
+    * *Communication*
+        * I can effectively use the file manager of my operating system (Finder) and source control tools (git, GitHub) to organize and back up my work.
+
  ### Question 1
  
  Create and initialize a variable or constant (whatever is more appropriate) to represent each of these items:
@@ -68,12 +90,22 @@
  
  If not, comment out the code that causes the error.
  
- Then, use multiple `print` statements below to explain why the code does not work.
+ What type of error (syntax, logical, or run-time) is this? Explain your selection.
+ 
+ Use multiple `print` statements below to answer the question.
  
  */
 // Answer Question 6 below
 
 
+/*:
+ ### Question 7
+ 
+ Swift is considered to be a *type-safe* language. What does this mean for programmers using the language?
+ 
+ Use multiple `print` statements below to explain.
+ */
+// Answer Question 7 below
 
 
 
