@@ -9,7 +9,7 @@
  
  You will receive feedback from Mr. Gordon, via GitHub, on your work in this playground after you commit it and add links to your Computer Science portfolio.
  
- In our very next class together, you will write another set of exercises like this that must go into your portfolio and are there to help you demonstrate your mastery of course expectations.
+ In our very next class together, you will write another set of exercises like this.  Links to your code must go into your portfolio; they are there to help you demonstrate your mastery of course expectations.
  
  Remember, the more documentation of learning that you have, the more you can expect and justify a top-level grade in this course.
  

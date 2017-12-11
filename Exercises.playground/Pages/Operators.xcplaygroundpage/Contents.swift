@@ -7,9 +7,6 @@
  * Goal 4
     * *Knowledge*
         * I know how to use assignment statements, including compound assignment operators, when appropriate.
- * Goal 5
-    * *Knowledge*
-        * I can write concise statements using Boolean operators or pattern matching to check for multiple conditions.
  * Goal 6
     * *Knowledge*
         * I can use comparison operators and arithmetic operators and understand operator precedence (order of operations).
@@ -46,5 +43,19 @@
  
  */
 // Answer Question 1 below
+
+
+/*:
+### Question 2
+
+ Add the necessary syntax so that subtraction is prioritized over multiplication in the statement below:
+ 
+ `6 + 4 * 5 - 2`
+
+*/
+// Answer Question 2 below
+6 + 4 * 5 - 2
+
+
 
 //: [Next](@next)
