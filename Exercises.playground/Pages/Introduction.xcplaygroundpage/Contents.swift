@@ -5,18 +5,17 @@
  
  * 1.2: Constants, Variables, and Data Types
  * 1.3: Operators
+ * 1.4: Control Flow
  
- You will receive feedback from Mr. Gordon, via GitHub, on your work in this playground after you commit it and add links to your Computer Science portfolio.
+ While you complete this playgroud, commit your work (ideally after every question).
  
- In our very next class together on Thursday, you will write another set of exercises like this to check your knowledge of content from section 1.4 (Control Flow).
+ This makes it easier to find specific code examples that you can in turn easily add to your Computer Science portfolio.
  
- After you add links to your portfolio from Thursday's class, you will also receive feedback on your work.
+ Students who add links to their Computer Science portfolio will receive individual feedback from Mr. Gordon on how to improve, via GitHub comments (you will receive notifications by emails for any comments made).
  
- Finally, on Saturday, you will write a third playground that again covers content from 1.2, 1.3, and 1.4.
+ If you forget how to add links to your portfolio, [here is a video explaining the process that was shared earlier this year](https://www.youtube.com/watch?v=Wa3Wl3T25jo&list=PLTGGOQnktyWs9TlNJ30pgYgypvIGrt3Lx&index=1).
  
- This playground for Saturday's class serves as another layer of documentation of your learning for these key topics.
- 
- Remember, the more documentation of learning that you have, the more you can expect and justify a top-level grade in this course.
+ Remember, the more documentation of learning that you have in your Computer Science portfolio, the more you can justify and expect to earn a top-level grade in this course.
  
  Also, and I hope more importantly, if you learn these fundamental concepts, you are well prepared to begin a project of your choosing in January – be that an app, a game, or some other endeavour.
  
