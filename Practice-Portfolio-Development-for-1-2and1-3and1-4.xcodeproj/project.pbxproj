@@ -28,7 +28,7 @@
 				LastUpgradeCheck = 0920;
 				ORGANIZATIONNAME = "Gordon, Russell";
 			};
-			buildConfigurationList = 0EE021991FDADD5100DC21D9 /* Build configuration list for PBXProject "Practice-Portfolio-Development-for-1-2and1-3" */;
+			buildConfigurationList = 0EE021991FDADD5100DC21D9 /* Build configuration list for PBXProject "Practice-Portfolio-Development-for-1-2and1-3and1-4" */;
 			compatibilityVersion = "Xcode 8.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -154,7 +154,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		0EE021991FDADD5100DC21D9 /* Build configuration list for PBXProject "Practice-Portfolio-Development-for-1-2and1-3" */ = {
+		0EE021991FDADD5100DC21D9 /* Build configuration list for PBXProject "Practice-Portfolio-Development-for-1-2and1-3and1-4" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				0EE021A31FDADD5200DC21D9 /* Debug */,
