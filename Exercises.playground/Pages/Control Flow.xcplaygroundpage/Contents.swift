@@ -89,9 +89,31 @@ let teachesOutdoorEd = true
 
 // Answer Question 4 below
 
+
 /*:
  
  ### Question 5
+ 
+ You and a friend are staying in on a snowy Friday evening to watch a movie.
+ 
+ You both have very specific criteria for what movie you are willing to watch:
+ 
+ * You want to watch a movie that is either action or a comedy.
+ * Your friend wants to watch a movie that stars Dwayne 'The Rock' Johnson.
+ 
+ A third friend suggests a movie that she thinks will fit both of your criteria. The movie's attributes are represented by a few constants below. Write a single if-else statement that will print "Let's watch!" if the movie's attributes match the group's requirements, and otherwise prints "Sorry, guess we'll have to play Tic-Tac-Toe instead."
+ */
+
+let isAction = true
+let isComedy = false
+let starsTheRock = true
+
+// Answer Question 5 below
+
+
+/*:
+ 
+ ### Question 6
  
  You've decided to start writing an online gradebook.
  
@@ -104,7 +126,7 @@ let teachesOutdoorEd = true
  
  */
 
-// Answer Question 5 below
+// Answer Question 6 below
 
 
 
