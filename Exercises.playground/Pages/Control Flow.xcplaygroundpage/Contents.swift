@@ -89,4 +89,23 @@ let teachesOutdoorEd = true
 
 // Answer Question 4 below
 
+/*:
+ 
+ ### Question 5
+ 
+ You've decided to start writing an online gradebook.
+ 
+ Write an `switch` statement that prints output according to the following criteria:
+ 
+ * When `finalGrade` is 80 or greater, prints "You've learned a lot, well done!"
+ * When `finalGrade` is 60 and up to and including 79, prints "Hmm, not bad, but could be better."
+ * When `finalGrade` is 50 and up to and including 59, prints "Should have booked more Grove Times."
+ * Otherwise prints "I literally can't even."
+ 
+ */
+
+// Answer Question 5 below
+
+
+
 
