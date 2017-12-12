@@ -70,4 +70,23 @@ temperature = 15
 
 // Answer Question 3 below
 
+/*:
+ 
+ ### Question 4
+ 
+ Imagine that you are trying to write an app that identifies who an LCS teacher is based on a series of questions.
+ 
+ The questions will be answered for you with either `true` or `false` and no other possible response.
+ 
+ Three constants have been created below with certain values.
+ 
+ Write an `if` statement that prints "Must be Gordon!" when the values of the constants would seem to suggest the person is Mr. Gordon, or otherwise prints "Hmm, need more data to be sure."
+ 
+ */
+let hasRedHair = true
+let alwaysGetsAttentionBySayingGentsAndLadies = true
+let teachesOutdoorEd = true
+
+// Answer Question 4 below
+
 
