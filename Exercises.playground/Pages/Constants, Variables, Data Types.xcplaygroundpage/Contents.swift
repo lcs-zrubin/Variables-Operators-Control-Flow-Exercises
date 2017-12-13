@@ -82,7 +82,7 @@ print("The computer knows that the value will never change, so it dosent waste p
  
  */
 // Answer Question 5 below
-
+let ransomDemand = 1_000_000
 /*:
  ### Question 6
  
