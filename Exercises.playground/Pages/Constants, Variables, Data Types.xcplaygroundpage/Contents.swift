@@ -70,7 +70,8 @@ var zachsFavouriteHobby = "Video Games"
  Use multiple `print` statements below to answer this question.
  */
 // Answer Question 4 below
-
+print("You cant accidentally change a value if its a constant, which makes the code safer")
+print("The computer knows that the value will never change, so it dosent waste processing power checking it over and over again whenever it comes up in code, this makes your code faster and more efficient")
 
 /*:
  ### Question 5
