@@ -50,7 +50,9 @@ let novReportCard = 89
  
  */
 // Answer Question 2 below
-
+let myAge = 15
+let otherAge = 40.0
+let AverageAge:Double = (Double(myAge) + otherAge)/2
 
 /*:
  ### Question 3
