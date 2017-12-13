@@ -60,7 +60,7 @@ let AverageAge:Double = (Double(myAge) + otherAge)/2
  Create a variable that will track a person's favourite hobby. Select whatever name you feel is appropriate, but use the camel case convention when you name this variable.
  */
 // Answer Question 3 below
-
+var zachsFavouriteHobby = "Video Games"
 
 /*:
  ### Question 4
