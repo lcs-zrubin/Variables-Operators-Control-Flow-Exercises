@@ -114,7 +114,7 @@ print("It is a syntax error because the program dosent run, but it dosent crash 
  Use multiple `print` statements below to explain.
  */
 // Answer Question 7 below
-
+print("XCode has a error handler, and will try to figure out and tell us what the error is. This is considered type-safe because if we make one little mistake, we can easily see where the issue is and how to fix it")
 
 
 
