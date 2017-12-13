@@ -102,8 +102,10 @@ let ransomDemand = 1_000_000
  
  */
 // Answer Question 6 below
-
-
+var year = 2017
+let text = "Me Irl"
+// let text = year
+print("It is a syntax error because the program dosent run, but it dosent crash either")
 /*:
  ### Question 7
  
