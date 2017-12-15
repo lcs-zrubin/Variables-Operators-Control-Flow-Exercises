@@ -43,7 +43,12 @@
  
  */
 // Answer Question 1 below
-
+var partTimeJobEarnings = 0.0
+partTimeJobEarnings += 22.50
+partTimeJobEarnings += 20.00*5
+partTimeJobEarnings /= 2
+partTimeJobEarnings += 25.00*4
+partTimeJobEarnings -= 50
 
 /*:
 ### Question 2
@@ -54,7 +59,7 @@
 
 */
 // Answer Question 2 below
-6 + 4 * 5 - 2
+(6 + 4) * (5 - 2)
 
 
 
